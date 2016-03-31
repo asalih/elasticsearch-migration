@@ -1,0 +1,14 @@
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\elastic.nestscroll.exe.config
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\elastic.nestscroll.exe
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\elastic.nestscroll.pdb
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Elasticsearch.Net.dll
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Nest.dll
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Newtonsoft.Json.dll
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Elasticsearch.Net.pdb
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Elasticsearch.Net.xml
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Nest.pdb
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Nest.xml
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\bin\Debug\Newtonsoft.Json.xml
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\obj\Debug\elastic.nestscroll.csprojResolveAssemblyReference.cache
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\obj\Debug\elastic.nestscroll.exe
+c:\users\asalih\documents\visual studio 2015\Projects\elastic.nestscroll\elastic.nestscroll\obj\Debug\elastic.nestscroll.pdb
