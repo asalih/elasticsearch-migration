@@ -1,3 +1,3 @@
 # elasticsearch-migration
 
-transfers data between two elasticsearch index/type using nest scroll api. Simple helper tool.
+transfers data between two elasticsearch index/type using scroll api with nest. A simple helper tool.
